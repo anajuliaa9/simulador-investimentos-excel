@@ -1,8 +1,14 @@
 # 📊 Simulador de Investimentos - Excel
 
-## Sobre o projeto
+## 📌 Sobre o projeto
 
 Simulador de investimentos desenvolvido no Excel como projeto prático de um curso.
+
+## 📊 Visualização do projeto
+
+![Simulador de Investimentos - Parte 1](./simulador-1.png)
+
+![Simulador de Investimentos - Parte 2](./simulador-2.png)
 
 ## 🎯 Objetivo
 
@@ -16,9 +22,9 @@ Simular a evolução de investimentos mensais, permitindo visualizar o patrimôn
 - Sugestão de distribuição da carteira;
 - Gráfico de distribuição dos investimentos.
 
-## 🛠️ Ferramentas
+## 🛠️ Ferramentas utilizadas
 
-- Microsoft Excel
+- Microsoft Excel;
 - Fórmulas e funções;
 - Cálculos financeiros;
 - Gráficos.
@@ -26,5 +32,9 @@ Simular a evolução de investimentos mensais, permitindo visualizar o patrimôn
 ## 📈 Como funciona
 
 O usuário informa dados como salário, valor a investir, período e taxa de rendimento. A partir dessas informações, o Excel realiza os cálculos e apresenta as projeções e a distribuição sugerida da carteira.
+
+## 📁 Arquivo
+
+[📊 Baixar o Simulador de Investimentos](./Projeto_Simulador_Investimentos.xlsx)
 
 > Os valores apresentados são apenas simulações e não representam garantia de rentabilidade.
